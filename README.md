@@ -66,10 +66,6 @@ task-manager/
 │ ├── index.html
 │ └── package.json
 
-## 🌐 Live Links
-Frontend: https://legendary-cat-1f7cce.netlify.app/  
-Backend: https://task-manager-2-t44r.onrender.com
-
 ## 📡 API Endpoints
 
 GET /api/tasks  
