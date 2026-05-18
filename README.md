@@ -55,19 +55,32 @@ https://task-manager-2-t44r.onrender.com/api/tasks?utm_source=chatgpt.com
 task-manager/
 │
 ├── backend/
+
 │ ├── config/
+
 │ ├── controllers/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── server.js
+
 │
 ├── frontend/
+
 │ ├── src/
+
 │ │ ├── App.jsx
+
 │ │ ├── api.js
+
 │ │ ├── App.css
+
 │ │ └── main.jsx
+
 │ ├── index.html
+
 │ └── package.json
 
 ## 📡 API Endpoints
