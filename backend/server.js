@@ -14,7 +14,7 @@ const app = express();
 
 // Middlewares
 app.use(cors({
-  origin: "https://task-manager-card.vercel.app"
+  origin: "https://task-manager-card-git-main-akshaya-vasireddi-s-projects.vercel.app"
 }));
 app.use(express.json());
 
