@@ -6,13 +6,11 @@ A modern full-stack Task Management application built using **React, Node.js, Ex
 
 ## 🌐 Live Demo
 
-👉 Frontend (Netlify):  
-https://legendary-cat-1f7cce.netlify.app/
+👉 Frontend (Vercel):  
+  https://task-manager-card-git-main-akshaya-vasireddi-s-projects.vercel.app/
 
-👉 Backend (Render API):  
-https://task-manager-2-t44r.onrender.com
-👉 Backend(API endpoint):
-https://task-manager-2-t44r.onrender.com/api/tasks?utm_source=chatgpt.com
+👉 Backend (Render API): 
+  https://task-manager-backend-edt0.onrender.com/
 
 ---
 
